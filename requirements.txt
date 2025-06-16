@@ -1,0 +1,3 @@
+Dataset link - https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+Pickle file of all books is larger than 25MB. Please create your own pickle file of all books to perform the deployement in Flask.
